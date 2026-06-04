@@ -8,7 +8,7 @@ By mapping datasets to boolean vectors and exploiting the Single Instruction, Mu
 
 * **Cryptographic Backend:** [Lattigo v6](https://github.com/tuneinsight/lattigo) (Go).
 * **Encryption Scheme:** Brakerski-Gentry-Vaikuntanathan (BGV) in a Multi-Key (MK) setting.
-* **Network Topology:** Star topology utilizing a centralized Leader for homomorphic aggregation.
+* **Network Topology:** Star topology utilizing a centralized leader for homomorphic aggregation.
 * **Post-Quantum Security:** Parameters configured for >256-bit post-quantum security against known lattice attacks ($N=16384$, $\log_2(q)=216$).
 
 ## Repository Structure
